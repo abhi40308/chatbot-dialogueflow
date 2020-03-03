@@ -17,7 +17,7 @@ Intent CheckStatus is being used to check status of the order given a `order_id`
 
 These intents are using NLP techniques to understand customer response and `fuzzy matching` is enabled to match custom generated parameters (For ex. if customer mispells in type of pizza, which should be veg, non-veg, etc.)
 
-You can access the bot (here)[https://bot.dialogflow.com/yoyopizzachatbot]
+You can access the bot [here](https://bot.dialogflow.com/yoyopizzachatbot).
 
 ![Screenshot](https://github.com/abhi40308/chatbot-dialogueflow/blob/master/3.png)
 
