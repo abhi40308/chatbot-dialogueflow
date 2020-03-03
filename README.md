@@ -1,3 +1,7 @@
+# Project Overview
+
+Chatbot to order pizza and check for order status by using order ID. This repo contains the webhook template for dialogueflow to connect to firebase, the server script is deployed on cloud functions of firebase.
+
 # Dialogflow: Webhook Template using Node.js and Cloud Functions for Firebase
 
 ## Setup Instructions
